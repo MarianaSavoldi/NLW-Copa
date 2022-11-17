@@ -21,7 +21,7 @@ export function New() {
 
         <Input mb={ 2 } placeholder='Qual o nome do seu bolão?' />
 
-        <Button title='Criar meu bolão' />
+        <Button title='CRIAR MEU BOLÃO' />
 
         <Text color='gray.200' fontSize='sm' textAlign='center' px={ 10 } mt={ 4 }>
           Após criar seu bolão, você receberá um { '\n' }
