@@ -25,8 +25,8 @@ export function New() {
 
         <Text color='gray.200' fontSize='sm' textAlign='center' px={ 10 } mt={ 4 }>
           Após criar seu bolão, você receberá um { '\n' }
-          código único que poderá usar para convidar { '\n' }
-          outras pessoas.
+          código único que poderá usar para { '\n' }
+          convidar outras pessoas.
         </Text>
 
       </VStack>
